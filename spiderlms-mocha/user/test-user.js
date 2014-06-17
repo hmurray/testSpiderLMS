@@ -1,7 +1,3 @@
-/**
- * Created by rpatel on 5/26/14.
- */
-
 var bootstrap = require('../bootstrap');
 var assert = require('assert');
 var log = bootstrap.log;
